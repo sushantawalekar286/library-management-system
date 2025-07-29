@@ -1,0 +1,12 @@
+# Ignore compiled object files
+*.o
+*.exe
+*.out
+
+# Ignore data and log files
+*.dat
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
